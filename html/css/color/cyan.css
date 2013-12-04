@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	Title: Arvedui App/ Software Responsive Bootstrap Landing Page
+	Color: Cyan
+	Autor: Coralix Themes
+*/
+/* ============================== */
+
+
+.naviga ul li a#contact_icon i {
+	background: url("../../img/icon-contact-cyan.png") repeat scroll 0 0 transparent;
+}
+
+.hero .desc a.download {
+	background: #00b5ff;
+}
+
+.hero .desc a.download:hover {
+	color: #00b5ff;
+}
+
+.naviga ul li a span {
+	background: #00b5ff;
+}
+.row-fluid .span3.feature-left h3 a, .row-fluid .span3.feature-right h3 a {
+	color: #00b5ff;
+}
+#testimonials {
+	background: #00b5ff;
+}
+
+#newsletter {
+	background: #00b5ff;
+}
+#newsletter form input[type="submit"] {
+	color: #00b5ff;
+}
+section.twitter {
+	background: #00b5ff;
+}
+.genericBox h3 {
+    color: #00b5ff;
+}
+#pricing .span4 ul:hover {
+	border: 6px solid #00b5ff;
+}
+
+#pricing .span4 ul li.title {
+	color: #00b5ff;
+}
+#pricing ul li a:hover {
+	background: #00b5ff;
+}
+
+#video .span5 .data-charts li {
+	color: #00b5ff;
+}
+#video .span5 .data-charts li.first {
+	background: url('../../img/statisticback-cyan.png') no-repeat bottom center #161616;
+}
+#video .span5 .data-charts li.last {
+	background: url('../../img/statisticback-down-cyan.png') no-repeat top center #161616;
+}
+#video .span5 .data-charts li.highlight {
+	background: #00b5ff;
+}
+#gallery li a div {
+	background: #F6AE42;
+	background: rgba(0,181,255,0.89);
+}
+footer .right ul.social li a span {
+	background: #00b5ff;
+}
+footer .right ul.social li a i.icon-google-circled {
+	background-image: url(../../img/icon-social-gplus-cyan.png);
+}
+footer .right ul.social li a i.icon-youtube-circled {
+	background-image: url(../../img/icon-social-youtube-cyan.png);
+}
+footer .right ul.social li a i.icon-twitter-circled {
+	background-image: url(../../img/icon-social-twitter-cyan.png);
+}
+footer .right ul.social li a i.icon-facebook-circled {
+	background-image: url(../../img/icon-social-facebook-cyan.png);
+}
+footer .copyright a {
+	color: #00b5ff;
+}
+
+
+
+
+
+
+
+
+

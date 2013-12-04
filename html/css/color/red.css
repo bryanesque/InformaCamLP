@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	Title: Arvedui App/ Software Responsive Bootstrap Landing Page
+	Color: Red
+	Autor: Coralix Themes
+*/
+/* ============================== */
+
+
+.naviga ul li a#contact_icon i {
+	background: url("../../img/icon-contact-red.png") repeat scroll 0 0 transparent;
+}
+
+.hero .desc a.download {
+	background: #ef1e25;
+}
+
+.hero .desc a.download:hover {
+	color: #ef1e25;
+}
+
+.naviga ul li a span {
+	background: #ef1e25;
+}
+.row-fluid .span3.feature-left h3 a, .row-fluid .span3.feature-right h3 a {
+	color: #ef1e25;
+}
+#testimonials {
+	background: #ef1e25;
+}
+
+#newsletter {
+	background: #ef1e25;
+}
+#newsletter form input[type="submit"] {
+	color: #ef1e25;
+}
+section.twitter {
+	background: #ef1e25;
+}
+.genericBox h3 {
+    color: #ef1e25;
+}
+#pricing .span4 ul:hover {
+	border: 6px solid #ef1e25;
+}
+
+#pricing .span4 ul li.title {
+	color: #ef1e25;
+}
+#pricing ul li a:hover {
+	background: #ef1e25;
+}
+
+#video .span5 .data-charts li {
+	color: #ef1e25;
+}
+#video .span5 .data-charts li.first {
+	background: url('../../img/statisticback-red.png') no-repeat bottom center #161616;
+}
+#video .span5 .data-charts li.last {
+	background: url('../../img/statisticback-down-red.png') no-repeat top center #161616;
+}
+#video .span5 .data-charts li.highlight {
+	background: #ef1e25;
+}
+#gallery li a div {
+	background: #F6AE42;
+	background: rgba(239,30,37,0.89);
+}
+footer .right ul.social li a span {
+	background: #ef1e25;
+}
+footer .right ul.social li a i.icon-google-circled {
+	background-image: url(../../img/icon-social-gplus-red.png);
+}
+footer .right ul.social li a i.icon-youtube-circled {
+	background-image: url(../../img/icon-social-youtube-red.png);
+}
+footer .right ul.social li a i.icon-twitter-circled {
+	background-image: url(../../img/icon-social-twitter-red.png);
+}
+footer .right ul.social li a i.icon-facebook-circled {
+	background-image: url(../../img/icon-social-facebook-red.png);
+}
+footer .copyright a {
+	color: #ef1e25;
+}
+
+
+
+
+
+
+
+
+

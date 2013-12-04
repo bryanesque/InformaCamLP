@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	Title: Arvedui App/ Software Responsive Bootstrap Landing Page
+	Color: Yellow
+	Autor: Coralix Themes
+*/
+/* ============================== */
+
+
+.naviga ul li a#contact_icon i {
+	background: url("../../img/icon-contact-yellow.png") repeat scroll 0 0 transparent;
+}
+
+.hero .desc a.download {
+	background: #FF9900;
+}
+
+.hero .desc a.download:hover {
+	color: #ffa825;
+}
+
+.naviga ul li a span {
+	background: #ff9900;
+}
+.row-fluid .span3.feature-left h3 a, .row-fluid .span3.feature-right h3 a {
+	color: #FF9900;
+}
+#testimonials {
+	background: #ff9900;
+}
+
+#newsletter {
+	background: #FF9900;
+}
+#newsletter form input[type="submit"] {
+	color: #FF9900;
+}
+section.twitter {
+	background: #FF9900;
+}
+.genericBox h3 {
+    color: #FE9900;
+}
+#pricing .span4 ul:hover {
+	border: 6px solid #FF9900;
+}
+
+#pricing .span4 ul li.title {
+	color: #FF9900;
+}
+#pricing ul li a:hover {
+	background: #FF9900;
+}
+
+#video .span5 .data-charts li {
+	color: #FF9900;
+}
+#video .span5 .data-charts li.first {
+	background: url('../../img/statisticback-yellow.png') no-repeat bottom center #161616;
+}
+#video .span5 .data-charts li.last {
+	background: url('../../img/statisticback-down-yellow.png') no-repeat top center #161616;
+}
+#video .span5 .data-charts li.highlight {
+	background: #FF9900;
+}
+#gallery li a div {
+	background: #F6AE42;
+	background: rgba(246,174,66,0.89);
+}
+footer .right ul.social li a span {
+	background: #ff9900;
+}
+footer .right ul.social li a i.icon-google-circled {
+	background-image: url(../../img/icon-social-gplus-yellow.png);
+}
+footer .right ul.social li a i.icon-youtube-circled {
+	background-image: url(../../img/icon-social-youtube-yellow.png);
+}
+footer .right ul.social li a i.icon-twitter-circled {
+	background-image: url(../../img/icon-social-twitter-yellow.png);
+}
+footer .right ul.social li a i.icon-facebook-circled {
+	background-image: url(../../img/icon-social-facebook-yellow.png);
+}
+footer .copyright a {
+	color: #FF9900;
+}
+
+
+
+
+
+
+
+
+
