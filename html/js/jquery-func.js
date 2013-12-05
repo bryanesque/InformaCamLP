@@ -200,7 +200,7 @@ $(document).ready(function() {
 	//=================================== Twitter =================================//
     $('.twitterfeed').tweet({
         modpath: 'twitter/',
-        username: "envato",
+        username: "guardianproject",
         count: 1,
         loading_text: 'Loading twitter feed...',
         template : function(data){            
