@@ -1,7 +1,7 @@
 <?php
-$to="demo@yourcompany.com";
+$to="support@guardianproject.info";
 /*Your Email*/
-$subject="Suscription from the website";
+$subject="Request from InformaCam site";
 /*Issue*/
 $date=date("l, F jS, Y");
 $time=date("h:i A");
