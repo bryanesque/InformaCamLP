@@ -16,24 +16,12 @@ Created: 2013.02.20
 https://github.com/seaofclouds/tweet
 https://github.com/themattharris/tmhOAuth
 
- */
-
 if(empty($_POST)) { die(); }
 
 class ezTweet {
 	/*************************************** config ***************************************/
 
    // Your Twitter App Consumer Key
-	private $consumer_key = "N8Wrfk3NCnV2V0yjmA";//'YOUR_CONSUMER_KEY';
-
-	// Your Twitter App Consumer Secret
-	private $consumer_secret = "5xU4LFgrTeQ0uv8D97VnQkipadb4e84OEBiTKXESs";//'YOUR_CONSUMER_SECRET';
-
-	// Your Twitter App Access Token
-	private $user_token = "129705968-WQ1IUbIBH09A9cpTjzmuLUX5JtsBJrbGzlsGdiYE";//'YOUR_ACCESS_TOKEN';
-
-	// Your Twitter App Access Token Secret
-	private $user_secret = "55zqy4pE2qbs4zolVtLOVA8n4y6fmM3V7KrEOSpRfo";//'YOUR_ACCESS_TOKEN_SECRET';
 
 	// Path to tmhOAuth libraries
 	private $lib = './lib/';
